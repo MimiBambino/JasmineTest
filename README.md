@@ -1,8 +1,3 @@
-# Resources utilized for this project
-
-http://tosbourn.com/using-loops-in-jasmine/
-http://jasmine.github.io/2.0/introduction.html#section-Asynchronous_Support
-
 # Project Overview
 
 This project was created for Udacity's Front End Web Developer Nanodegree program as project 6.  I wrote tests using the Jasmine testing framework.
